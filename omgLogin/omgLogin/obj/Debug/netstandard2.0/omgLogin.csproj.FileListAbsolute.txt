@@ -1,0 +1,13 @@
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\bin\Debug\netstandard2.0\omgLogin.deps.json
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\bin\Debug\netstandard2.0\omgLogin.dll
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\bin\Debug\netstandard2.0\ref\omgLogin.dll
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\bin\Debug\netstandard2.0\omgLogin.pdb
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\omgLogin.csprojAssemblyReference.cache
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\omgLogin.AssemblyInfoInputs.cache
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\omgLogin.AssemblyInfo.cs
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\omgLogin.dll
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\ref\omgLogin.dll
+C:\Users\OMEGA\source\repos\omgLogin\omgLogin\omgLogin\obj\Debug\netstandard2.0\omgLogin.pdb
